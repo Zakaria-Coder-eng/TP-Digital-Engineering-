@@ -1,7 +1,7 @@
 # TP Digital Engineering — NOM Prenom
 ## Présentation- Étudiant : Prenom NOM — ENSA Khouribga, 1re année cycle ingénieur (IID)- Rôle dans le binôme : Étudiant B (collaborateur)   <!-- ou Étudiant A (propriétaire) -->
-## Dépôts réalisés- Exercice 1 : https://github.com/<mon-compte>/calcul-c- Exercice 2 (dépôt commun) : https://github.com/<compte-de-A>/calcul-c-equipe
-## Pull request fusionnée- https://github.com/<compte-de-A>/calcul-c-equipe/pull/1
+## Dépôts réalisés- Exercice 1 :[ https://github.com/<mon-compte>/calcul-c-](https://github.com/Zakaria-Coder-eng/-calcul-c.git) Exercice 2 (dépôt commun) : [https://github.com/<compte-de-A>/calcul-c-equipe](https://github.com/Zakaria-Coder-eng/calcul-c-equipe.git)
+## Pull request fusionnée- [https://github.com/<compte-de-A>/calcul-c-equipe/pull/1](https://github.com/Zakaria-Coder-eng/calcul-c-equipe/pulls?q=is%3Apr+state%3Aclosed)
 ## Bilan des commandes (dépôt calcul-c-equipe)
 git status
     On branch main
